@@ -103,12 +103,22 @@ export const SkillsInfo = [
     },
 
     {
-      id: 2,
+      id: 3,
+      title: "TodoApp",
+      description:
+        "Developed a full-stack To-Do application with secure user authentication and task management functionality. Enabled users to manage tasks with create, update, delete, and status tracking features",
+ 
+      tags: ["React", "Java", " Mysql)"],
+      
+    },
+
+    {
+      id: 3,
       title: "Weather App",
       description:
         "Fetches real-time weather data from OpenWeatherMap API and displays temperature, humidity, wind speed, and conditions dynamically.",
  
-      tags: [" React", "Java"],
+      tags: [" React"],
       
     },
     
