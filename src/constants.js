@@ -103,7 +103,7 @@ export const SkillsInfo = [
     },
 
     {
-      id: 3,
+      id: 2,
       title: "TodoApp",
       description:
         "Developed a full-stack To-Do application with secure user authentication and task management functionality. Enabled users to manage tasks with create, update, delete, and status tracking features",
